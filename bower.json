@@ -1,0 +1,31 @@
+{
+  "name": "blank-css-sizes",
+  "version": "0.1.0",
+  "description": "sizes component for blank-css",
+  "main": "sizes.scss",
+  "homepage": "https://github.com/ahmedelgabri/blank-layout-sizes",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "sizes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "blank-css-mq": "~0.1.0"
+  }
+}
